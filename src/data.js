@@ -65,26 +65,18 @@ export const projects = [
   featured: true,
 },
 {
-  id: 5,
-  title: "Personal Portfolio",
-  tagline: "Modern Developer Portfolio",
-  description:
-    "A modern and responsive developer portfolio showcasing my projects, technical skills, certifications, and achievements. Built with smooth animations, interactive UI, and optimized performance to provide an engaging user experience.",
-  emoji: "💼",
-  gradient: "from-indigo-600/20 to-violet-600/20",
-  border: "border-indigo-500/30",
-  tags: [
-    "React",
-    "Tailwind CSS",
-    "Framer Motion",
-    "JavaScript",
-    "Vite",
-    "Responsive Design"
-  ],
-  demo: "https://your-portfolio.vercel.app",
-  github: "https://github.com/DeepBirwadkar/portfolio",
-  featured: true,
-}
+    id: 4,
+    title: 'Personal Portfolio',
+    tagline: 'Modern Developer Portfolio',
+    description: 'A modern and responsive developer portfolio showcasing my projects, technical skills, certifications, and achievements. Built with smooth animations, interactive UI, and optimized performance to provide an engaging user experience.',
+    emoji: '💼',
+    gradient: 'from-indigo-600/20 to-violet-600/20',
+    border: 'border-indigo-500/30',
+    tags: ['React', 'Tailwind CSS', 'Framer Motion', 'JavaScript', 'Vite', 'Responsive Design'],
+    demo: 'https://deepbirwadkar-portfolio.vercel.app/', 
+    github: 'https://github.com/DeepBirwadkar/deep-portfolio',
+    featured: true,
+  }
 ]
 
 export const education = [
